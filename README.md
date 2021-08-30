@@ -1,1 +1,1 @@
-{"open": 1, "url": "https:\/\/shareme.one"}
+{"open": 0, "url": "https:\/\/shareme.one"}
